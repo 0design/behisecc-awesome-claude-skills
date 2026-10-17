@@ -86,6 +86,8 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [AINDF screen author](https://github.com/0design/ai-native-design-framework/tree/main/plugin/skills/aindf-screen-author) - Composes and validates ScreenSpec JSON through an AINDF design-system MCP using pinned component, prop and slot contracts. Requires an AINDF-enabled design system. *By [Oleg.Design](https://oleg.design)*
+- [UNSLOP audit](https://github.com/0design/unslop-skill) - Audits generated UI against design-system contracts and version-pinned quality rules, verifies findings, and writes fix plans. Full audits require the plugin's detector and canon client. *By [Oleg.Design](https://oleg.design)*
 
 
 ## 📊 Data & Analysis
